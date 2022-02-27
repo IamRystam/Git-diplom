@@ -1,6 +1,6 @@
 # Рустам.
 
-![ФОТО](img/Foto).
+![ФОТО](https://github.com/IamRystam/Git-diplom/blob/master/img/Foto.jpg).
 
 ## О себе: 
 образование высшее, стаж работы 20 лет.
